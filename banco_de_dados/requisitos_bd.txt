@@ -1,8 +1,8 @@
 - Requisitos que o arquivo de criação do banco de dados deve cumprir:
-1. Consulta com estrutura DDL
-2. Consulta com estrutura DML
-3. Implementação de Chaves (primárias e secundárias)
-4. Configuração dos relacionamentos
+1. Consulta com estrutura DDL -> OK
+2. Consulta com estrutura DML -> OK
+3. Implementação de Chaves (primárias e secundárias) -> OK
+4. Configuração dos relacionamentos -> OK
 5. INSERTS em todas as tabelas
 6. Uso de consultas aninhadas
 7. Consultas que envolvam o uso de: 
@@ -13,7 +13,7 @@
 8. Inclusão de pelo menos:
   8.1. Uma Stored Procedure, 
   8.2. Uma View
-  8.3. Uma Trigger
+  8.3. Uma Trigger -> OK
 9. Procedimentos de controle de transação com o uso dos comandos:
   9.1. "START TRANSACTION confirmando com COMMIT
   9.2. "START TRANSACTION recuperando com ROLLBACK
