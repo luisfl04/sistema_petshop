@@ -1,9 +1,9 @@
 Lista das entidades que fazem parte do sistema:
-1 - Gerente
-2 - Veterinário
-3 - Funcionario
-4 - Cliente
-5 - TipoDeUsuario
+1 - Gerente -> OK
+2 - Veterinário -> OK
+3 - Funcionario -> OK
+4 - Cliente -> OK
+5 - TipoDeUsuario -> OK
 6 - ServicoOferecido
 7 - Produto
 8 - Estoque
